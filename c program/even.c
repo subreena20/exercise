@@ -1,5 +1,5 @@
 
-#check a number is divisible by 2 or not.
+// check a number is divisible by 2 or not.
 
 //#include <stdio.h>
 //int main(){
@@ -11,7 +11,7 @@
 //	return 0;
 //}
 
-# check a given number is even or odd.
+//  check a given number is even or odd.
 
 //int main(){
 //	int x;
@@ -25,10 +25,10 @@
 //	return 0;
 //}
 
-# are the following valid or not.
-# int a = 8^8
-# int x; int y=x;
-# char stars = "**"
+//  are the following valid or not.
+//  int a = 8^8
+//  int x; int y=x;
+//  char stars = "**"
 //int main(){
 //	int x; int y=x;
 ////	char stars="*";
@@ -39,7 +39,7 @@
 //	return 0;
 //}
 
-# print true (1) or false(0)
+//  print true (1) or false(0)
 
 //int main(){
 //	int issunday=1;
