@@ -1,0 +1,45 @@
+*{
+    font-family: courier new;
+}
+
+h1{
+    color:#1b74e4;
+}
+
+#searchbtn{
+       background-color: black;
+       color:white;
+}
+
+/* #login, #register{
+    background-color: aqua;
+} */
+
+* .userbtn{
+    background-color: aqua;
+} 
+#myid p{
+    color:green;
+}
+
+div[id="myId"] p {
+    color:rgb(224, 44, 56);
+}
+button:hover {
+        color:ghostwhite;
+        background-color: black;
+}
+h3:hover {
+    color:rgb(15, 168, 211);
+}
+h1:hover{
+    color:greenyellow;
+}
+ button:active {
+    background-color: rgb(255, 0, 0);
+ }
+
+ input[type="radio"]:checked + label {
+    color:red;
+    font-weight: bold;
+ }
